@@ -32,5 +32,11 @@ Controlling a robot car via bluetooth
 
 <img width="519" height="693" alt="image" src="https://github.com/user-attachments/assets/aaba46f6-7d1e-4be9-87e5-f8ad64a7d13f" />
 
+**App appearance and code:**
+
+<img width="442" height="802" alt="image" src="https://github.com/user-attachments/assets/b63eef15-6f1f-41ab-96ad-dca227a62f4d" />
+
+<img width="1387" height="575" alt="image" src="https://github.com/user-attachments/assets/b2f7568d-83aa-44d1-b9d5-8504780fb61a" />
+
 
 
